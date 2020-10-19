@@ -1,3 +1,5 @@
-# convert-sagemaker-build-in-ssd-model-to-local-depolyable
+# Convert SageMaker Build-in SSD Model to Local Depolyable Model
 
-Read from **Convert MXNet to a deployable model**
+This demo shows how to convert a SageMaker build in algorithm SSD model to a deployable model in MXNet environment.
+
+If you only care how to convert the model, you can read from **Convert MXNet to a deployable model**.
